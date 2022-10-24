@@ -5,3 +5,6 @@
 
 ## My skills
 <img align="left" alt="Java" width="40px" src="https://user-images.githubusercontent.com/86389730/196097248-82c4e51a-ae4a-4a0f-aad5-592344cccdd9.png"/>
+<img align="left" alt="SqlOracle" width="40px" src="https://user-images.githubusercontent.com/96425026/197557090-afd2b640-fdd6-4677-87b9-145a863910bd.png"/>
+
+
