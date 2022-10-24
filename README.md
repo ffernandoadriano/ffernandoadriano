@@ -4,4 +4,4 @@
 - 📫 How to reach me lfernando.adriano@gmail.com...
 
 ## Skills
-<img align="left" alt="Java" width="50px" src="https://user-images.githubusercontent.com/86389730/196097248-82c4e51a-ae4a-4a0f-aad5-592344cccdd9.png"/>
+<img align="left" alt="Java" width="40px" src="https://user-images.githubusercontent.com/86389730/196097248-82c4e51a-ae4a-4a0f-aad5-592344cccdd9.png"/>
