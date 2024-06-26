@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fernando Adriano. welcome to my Github.
 - 🎓 I’m Graduated in Computer Science | FAPAN 📚.
 - 💻 I’m interested in technology .
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java Web.
 - 📫 How to reach me lfernando.adriano@gmail.com...
 
 ## My skills
